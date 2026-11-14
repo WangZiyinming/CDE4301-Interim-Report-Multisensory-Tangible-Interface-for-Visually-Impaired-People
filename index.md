@@ -1,6 +1,3 @@
-<style>
-/* 强制网页所有正文颜色为黑色 */
-body, p, h1, h2, h3, h4, h5, h6, table, li { color: black !important; }
 </style>
 
 ![NUS Logo](nus-logo.png)
